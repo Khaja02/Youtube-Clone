@@ -1,0 +1,270 @@
+0
+: 
+type
+: "video"
+video
+: 
+author
+: {avatar: Array(1), badges: Array(1), canonicalBaseUrl: '/@ABCNews', channelId: 'UCBi2mrWuNuyYy4gbM6fU18Q', title: 'ABC News'
+}
+badges
+: ['New'
+]
+descriptionSnippet
+: "The fire rescue chopper suddenly broke apart and plunged to the ground, killing the pilot and a woman in an apartment building."
+isLiveNow
+: false
+lengthSeconds
+: 122
+movingThumbnails
+: [
+    {…
+    }
+]
+publishedTimeText
+: "1 day ago"
+stats
+: {views: 392966
+}
+thumbnails
+: 
+(2) [
+    {…
+    },
+    {…
+    }
+]
+title
+: "New video shows chopper crash into Florida apartment"
+videoId
+: "wRTI_ahhOi0"[
+    [Prototype
+    ]
+]
+: 
+Object
+[
+    [Prototype
+    ]
+]
+: 
+Object
+1
+: 
+type
+: "video"
+video
+: 
+author
+: {avatar: Array(1), badges: Array(1), canonicalBaseUrl: '/@WflaNewsChannel8', channelId: 'UCDvJcb8Adv-_bOrtnRLmiDw', title: 'WFLA News Channel 8'
+}
+badges
+: ['New'
+]
+descriptionSnippet
+: "The Emmy-award winning Tracking the Tropics is livestreaming interactive coverage of Tropical Storm Idalia all week on WFLA ..."
+isLiveNow
+: false
+lengthSeconds
+: 39659
+movingThumbnails
+: null
+publishedTimeText
+: "Streamed 3 hours ago"
+stats
+: {views: 296400
+}
+thumbnails
+: 
+(2) [
+    {…
+    },
+    {…
+    }
+]
+title
+: "TRACKING HURRICANE IDALIA: Latest Track, Interactive Forecast Q&A, New Models | Tracking the Tropics"
+videoId
+: "ijmMfoZc7ls"[
+    [Prototype
+    ]
+]
+: 
+Object
+[
+    [Prototype
+    ]
+]
+: 
+Object
+2
+: 
+type
+: "video"
+video
+: 
+author
+: {avatar: Array(1), badges: Array(1), canonicalBaseUrl: '/@msnbc', channelId: 'UCaXkIU1QidjPwiAYu6GcHjg', title: 'MSNBC'
+}
+badges
+: 
+(2) ['New', 'CC'
+]
+descriptionSnippet
+: "Donald Trump's Georgia RICO case is drawing scrutiny on double standards from cash bond to jail conditions. MSNBC's Ari ..."
+isLiveNow
+: false
+lengthSeconds
+: 268
+movingThumbnails
+: [
+    {…
+    }
+]
+publishedTimeText
+: "1 day ago"
+stats
+: {views: 121564
+}
+thumbnails
+: 
+(2) [
+    {…
+    },
+    {…
+    }
+]
+title
+: "Trump’s new prison nightmare: A notorious and 'inhumane' Georgia jail"
+videoId
+: "4BMSUV-89A8"[
+    [Prototype
+    ]
+]
+: 
+Object
+[
+    [Prototype
+    ]
+]
+: 
+Object
+3
+: 
+type
+: "video"
+video
+: 
+author
+: {avatar: Array(1), badges: Array(1), canonicalBaseUrl: '/@fox5ny', channelId: 'UCIjSUWHWp6KohfnR5OQTXnQ', title: 'FOX 5 New York'
+}
+badges
+: 
+(2) ['New', 'CC'
+]
+descriptionSnippet
+: "Monday was another day of heated, but peaceful protests, outside the shuttered St. John Villa Academy, which is currently being ..."
+isLiveNow
+: false
+lengthSeconds
+: 190
+movingThumbnails
+: [
+    {…
+    }
+]
+publishedTimeText
+: "16 hours ago"
+stats
+: {views: 15231
+}
+thumbnails
+: 
+(2) [
+    {…
+    },
+    {…
+    }
+]
+title
+: "NYC migrant crisis: Heated protests held outside new shelter"
+videoId
+: "8jQblNupsGw"[
+    [Prototype
+    ]
+]
+: 
+Object
+[
+    [Prototype
+    ]
+]
+: 
+Object
+4
+: 
+type
+: "video"
+video
+: 
+author
+: {avatar: Array(1), badges: Array(1), canonicalBaseUrl: '/@fox5ny', channelId: 'UCIjSUWHWp6KohfnR5OQTXnQ', title: 'FOX 5 New York'
+}
+badges
+: 
+(2) ['New', 'CC'
+]
+descriptionSnippet
+: "Tensions flared Sunday outside Gracie Mansion at an anti-migrant rally organized by Guardian Angels' founder Curtis Sliwa."
+isLiveNow
+: false
+lengthSeconds
+: 214
+movingThumbnails
+: 
+Array(1)
+0
+: {height: 180, url: 'https: //i.ytimg.com/an_webp/T3ChqCkpgBM/mqdefault_…qp=CJDeuqcG&rs=AOn4CLDMQ4s7E11urKcpZYe4XvBZk7c0Fw', width: 320}
+length
+: 1
+[
+        [Prototype
+        ]
+    ]
+: 
+Array(0)
+publishedTimeText
+: "1 day ago"
+stats
+: {views: 117407
+    }
+thumbnails
+: 
+Array(2)
+0
+: {height: 202, url: 'https: //i.ytimg.com/vi/T3ChqCkpgBM/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLDX-fRDonLAiAP2j1s6Z-K5oD3t4A', width: 360}
+        1
+: {height: 404, url: 'https: //i.ytimg.com/vi/T3ChqCkpgBM/hq720.jpg?sqp=-…AFwAcABBg==&rs=AOn4CLCczB0_EaAwOCZMftyO-klbXe8z5A', width: 720}
+length
+: 2
+[
+                [Prototype
+                ]
+            ]
+: 
+Array(0)
+title
+: "NYC migrant crisis: 5 arrested as protests turn violent"
+videoId
+: "T3ChqCkpgBM"[
+                [Prototype
+                ]
+            ]
+: 
+Object
+[
+                [Prototype
+                ]
+            ]
+: 
+Object
